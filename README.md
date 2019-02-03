@@ -1,11 +1,5 @@
-﻿<p align="center">
-<a href="https://twitter.com/Studisys">
-  <img width="300" height="82" src="https://studisys.net/github/projects/studisys-logo-inline-dark.png"></a>
-  <br/><br/>
-   <img src="https://studisys.net/github/projects/Simple-WIM2ESD---ESD2WIM-Converter/1.png">
-  <br/>
- </p>
- 
+# SCRIPT IS BUGGED ! (Index name empty, Not supporting folder with spaces, and others).
+# An update is planned as soon as I have more free time.
 ----------
 # Welcome to the Simple WIM2ESD / ESD2WIM Converter !
 <p align="center">
